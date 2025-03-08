@@ -2,6 +2,8 @@
 
 A cloud-based library management system built using Azure MySQL for database storage and management. This system allows libraries to manage books, members, staff, events, and borrowing activities efficiently.
 
+🔗 **[Click here to view the dashboard on Tableau Public](https://public.tableau.com/views/LibraryDatabaseAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 ## Overview
 
 This system provides a complete database solution for libraries with the following features:
